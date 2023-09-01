@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @indradeep2002 aka INdradeep Halder
+- 👋 Hi, I’m @indradeep2002 aka Indradeep Halder
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Basic's of IT 
 - 💞️ I’m looking to collaborate on Understanding different cybersecurity threats and guidence about how to prevent them 
