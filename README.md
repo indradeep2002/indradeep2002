@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @indradeep2002 aka Indradeep Halder
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Basic's of  Java
-- 💞️ I can describe myself as a continuous learner who has the enthusisum to collaborate on Understanding different technologies for Android Development and guidence about how to use them 
-- 📫 You can reach me via my email: indradeephalder@gmail.com
+- 👀 I’m interested in Android Development as well as Web Developement.
+- 🌱 I’m currently learning Basic's of OS and their Commands.
+- 💞️ I can describe myself as a continuous learner who has the enthusisum to collaborate on different projects, Understand different technologies and contribute my skills in it's Success. 
+- 📫 You can reach me via my email: indradeephalder@gmail.com or halderindradeep@gmail.com
 - 💞️ Looking forward to connect with others. 
 
 <!---
